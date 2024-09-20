@@ -28,6 +28,8 @@
   <img src="https://img.shields.io/badge/algorithm-2C2C32.svg?style=for-the-badge&logo=algorithm&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/HTML-150458.svg?style=for-the-badge&logo=HTML&logoColor=F37726" />&nbsp
   <img src="https://img.shields.io/badge/CSS-11557c.svg?style=for-the-badge&logo=CSS&logoColor=F37726" />&nbsp
+
+  <img src="https://img.shields.io/badge/Data Structure-11557c.svg?style=for-the-badge&logo=CSS&logoColor=F37726" />&nbsp
 <!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
 </div>
 
@@ -35,7 +37,7 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="mailto:oka1313@gmail.com">
+  <a href="mailto:yejoon822@gmail.com">
     <img
       src="https://img.shields.io/badge/yejoon822@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
